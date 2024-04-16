@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a4 as n}from"./chunks/framework.K9vKjHgL.js";const y=JSON.parse('{"title":"antv/x6","description":"","frontmatter":{},"headers":[],"relativePath":"home/antv.md","filePath":"home/antv.md"}'),h={name:"home/antv.md"},k=n("",54),l=[k];function t(p,e,F,r,d,g){return a(),i("div",null,l)}const o=s(h,[["render",t]]);export{y as __pageData,o as default};

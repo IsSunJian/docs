@@ -1,0 +1,1 @@
+import{_ as t,c as d,o,a4 as r}from"./chunks/framework.-JfgED0h.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tool/状态码大全.md","filePath":"tool/状态码大全.md"}'),e={name:"tool/状态码大全.md"},n=r("",5),s=[n];function a(c,g,h,i,l,_){return o(),d("div",null,s)}const b=t(e,[["render",a]]);export{u as __pageData,b as default};

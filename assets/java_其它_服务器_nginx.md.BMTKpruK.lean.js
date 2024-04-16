@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t}from"./chunks/framework.-JfgED0h.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"java/其它/服务器/nginx.md","filePath":"java/其它/服务器/nginx.md"}'),n={name:"java/其它/服务器/nginx.md"};function r(o,s,c,i,p,_){return t(),e("div")}const f=a(n,[["render",r]]);export{m as __pageData,f as default};
